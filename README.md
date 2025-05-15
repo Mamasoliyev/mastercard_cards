@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # credit_cards
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# mastercard_cards
+>>>>>>> 4006eef79608cd30033051e81d5a17fbecb44edf
